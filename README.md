@@ -38,9 +38,6 @@ Currently focused on <b>Python backend development</b> and <b>React interfaces</
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBramCraft&layout=compact&theme=github_dark" />
-</p>
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBramCraft&hide=java&layout=compact&theme=github_dark" />
 </p>
 ---
