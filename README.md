@@ -33,22 +33,12 @@ Currently focused on <b>Python backend development</b> and <b>React interfaces</
 ---
 
 <h2>📊 GitHub Stats</h2>
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devBramCraft&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devBramCraft&theme=github-dark-blue" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBramCraft&layout=compact&theme=github_dark" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devBramWijnen&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
 
 ---
