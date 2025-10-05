@@ -34,7 +34,7 @@ Currently focused on <b>Python backend development</b> and <b>React interfaces</
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="[![devBramCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbramcraft)](https://github.com/devbramcraft/github-readme-stats)" alt="GitHub Stats"/>
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
