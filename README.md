@@ -27,14 +27,14 @@ Currently focused on <b>Python backend development</b> and <b>React interfaces</
 
 <h2>🧰 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sqlite,mysql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,sqlite,mysql,docker,git,github" />
 </p>
 
 ---
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devBramWijnen&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <img src="[![devBramCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbramcraft)](https://github.com/devbramcraft/github-readme-stats)" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
