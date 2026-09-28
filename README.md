@@ -13,14 +13,14 @@
 
 <h2>🚀 About Me</h2>
 <p>
-I'm a full stack developer passionate about building scalable backend systems and modern web experiences.  
-Currently focused on <b>Python backend development</b> and <b>React interfaces</b>.
+I'm a Minecraft java developer passionate about building EventCore systems with apis and modern web experiences.  
+Currently focused on <b>Java</b> and <b>React JS</b>.
 </p>
 
 <ul>
-  <li>⚡ Experienced with: Java, JavaScript, React, SQL, Docker</li>
-  <li>🧠 Learning: TypeScript, Node JS</li>
-  <li>💼 Projects: <a href="https://www.bramcraft.net">bramcraft.net</a> — Portfolio Builder</li>
+  <li>⚡ Experienced with: Java, HTML, React, SQL, Docker</li>
+  <li>🧠 Learning: Rust, Kotlin</li>
+  <li>💼 Projects: <a href="https://dev.bramcraft.net">dev.bramcraft.net</a> — Portfolio</li>
 </ul>
 
 ---
